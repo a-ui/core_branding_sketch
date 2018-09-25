@@ -4,7 +4,8 @@ This project contains the Sketch source file of Antwerp's core branding componen
 
 ## Getting started
 
-To use the library in Sketch, simply click the following link: [sketch://add-library?url=http%3A%2F%2Fcdn.antwerpen.be%2Fcore_branding_sketch%2Flibrary.xml](sketch://add-library?url=http%3A%2F%2Fcdn.antwerpen.be%2Fcore_branding_sketch%2Flibrary.xml)
+To use the library in Sketch, simply copy-paste the following link in your browser's address bar and hit Enter:
+[sketch://add-library?url=http%3A%2F%2Fcdn.antwerpen.be%2Fcore_branding_sketch%2Flibrary.xml](sketch://add-library?url=http%3A%2F%2Fcdn.antwerpen.be%2Fcore_branding_sketch%2Flibrary.xml)
 
 After downloading the library to Sketch, you can access all the core branding components via the "Insert" menu. If you're unfamiliar with working with libraries in Sketch, please consult the following documentation on the Sketch website:
 
