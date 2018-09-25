@@ -6,7 +6,14 @@ This project contains the Sketch source file of Antwerp's core branding componen
 
 To use the library in Sketch, simply click the following link: [sketch://add-library?url=http%3A%2F%2Fcdn.antwerpen.be%2Fcore_branding_sketch%2Flibrary.xml](sketch://add-library?url=http%3A%2F%2Fcdn.antwerpen.be%2Fcore_branding_sketch%2Flibrary.xml)
 
-After downloading the library to Sketch, you can access all the core branding components via the "Insert" menu. If you're unfamiliar with working with library symbols in Sketch, please [read the great documentation on the website of Sketch](https://www.sketchapp.com/docs/libraries/library-symbols).
+After downloading the library to Sketch, you can access all the core branding components via the "Insert" menu. If you're unfamiliar with working with libraries in Sketch, please consult the following documentation on the Sketch website:
+
+- [Library symbols](https://www.sketchapp.com/docs/libraries/library-symbols)
+- [Library styles](https://www.sketchapp.com/docs/libraries/library-styles)
+
+## Updates
+
+Sketch will automatically inform you if there's an update available for our library. More info on how to upgrade [can also be found on the Sketch website](https://www.sketchapp.com/docs/libraries/library-updates).
 
 ## Contributing
 
