@@ -2,6 +2,10 @@
 
 This project contains the Sketch source file of Antwerp's core branding components. A visual overview can be found in the [Antwerp branding styleguide](https://a-ui.github.io/core_branding_scss/)
 
+## Prerequisites
+
+To use this library you'll need to have [Sketch](https://www.sketchapp.com) installed, version 51 or higher.
+
 ## Getting started
 
 To use the library in Sketch, simply copy-paste the following link in your browser's address bar and hit Enter:
