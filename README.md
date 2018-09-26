@@ -6,7 +6,7 @@ This project contains the Sketch source file of Antwerp's core branding componen
 
 To use the library in Sketch, simply copy-paste the following link in your browser's address bar and hit Enter:
 
-`sketch://add-library?url=http%3A%2F%2Fcdn.antwerpen.be%2Fcore_branding_sketch%2Flibrary.xml`
+`sketch://add-library?url=https%3A%2F%2Fcdn.antwerpen.be%2Fcore_branding_sketch%2Flibrary.xml`
 
 This will open Sketch for you and everything necessary will start downloading.
 
@@ -25,7 +25,7 @@ Contact us via [branding@stad.antwerpen.be](mailto:branding@stad.antwerpen.be).
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/a-ui/core_branding_sketch/tags).
+We use [SemVer](https://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/a-ui/core_branding_sketch/tags).
 
 ## Authors
 
