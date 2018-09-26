@@ -17,7 +17,7 @@ After downloading the library to Sketch, you can access all the core branding co
 
 ## Updates
 
-Sketch will automatically inform you if there is an update available for our library. More info on how to upgrade [can also be found on the Sketch website](https://www.sketchapp.com/docs/libraries/library-updates).
+Sketch will automatically inform you if there is an update available for our library on startup. Updates can then be downloaded from the Libraries tab in the Preferences panel. More info on how to upgrade [can also be found on the Sketch website](https://www.sketchapp.com/docs/libraries/library-updates).
 
 ## Contributing
 

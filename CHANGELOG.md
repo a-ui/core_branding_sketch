@@ -4,7 +4,7 @@
 ## [Unreleased] - yyyy-mm-dd
 
 
-## [v1] - 2018-09-26
+## [1.0.0] - 2018-09-26
 - Initial release.
 
 
