@@ -6,5 +6,7 @@ deploy:
   secret_access_key: $AWS_SECRET_ACCESS_KEY
   bucket: $AWS_BUCKET
   local_dir: lib
+  on:
+    branch: feature/travis-ci
   skip_cleanup: true
   upload-dir: $AWS_UPLOAD_DIR
