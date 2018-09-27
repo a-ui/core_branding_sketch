@@ -7,6 +7,6 @@ deploy:
   bucket: $AWS_BUCKET
   local_dir: lib
   on:
-    branch: feature/travis-ci
+    branch: master
   skip_cleanup: true
   upload-dir: $AWS_UPLOAD_DIR
