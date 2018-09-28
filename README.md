@@ -10,7 +10,7 @@ To use this library you'll need to have [Sketch](https://www.sketchapp.com) inst
 
 To use the library in Sketch, simply click the following link:
 
-`https://tinyurl.com/core-branding-sketch`
+[https://tinyurl.com/core-branding-sketch](https://tinyurl.com/core-branding-sketch)
 
 This will open Sketch for you and everything necessary will start downloading.
 
