@@ -8,5 +8,5 @@
 - Initial release.
 
 
-[Unreleased]: https://github.com/digipolisantwerp/acpaas-ui_angular/compare/v1...HEAD
-[1]: https://github.com/a-ui/core_branding_sketch/compare/v1
+[Unreleased]: https://github.com/digipolisantwerp/acpaas-ui_angular/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/a-ui/core_branding_sketch/compare/v1.0.0
