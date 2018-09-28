@@ -8,9 +8,9 @@ To use this library you'll need to have [Sketch](https://www.sketchapp.com) inst
 
 ## Getting started
 
-To use the library in Sketch, simply copy-paste the following link in your browser's address bar and hit Enter:
+To use the library in Sketch, simply click the following link:
 
-`sketch://add-library?url=https%3A%2F%2Fcdn.antwerpen.be%2Fcore_branding_sketch%2Flibrary.xml`
+`https://tinyurl.com/core-branding-sketch`
 
 This will open Sketch for you and everything necessary will start downloading.
 
