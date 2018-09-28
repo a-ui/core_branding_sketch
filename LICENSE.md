@@ -7,7 +7,7 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-The Antwep City brand logo is a registered trademark that can not be used
+The Antwerp City brand logo is a registered trademark that can not be used
 without prior permission from the city administration.
 
 The font family 'Antwerpen' can only be used with permission from the city
