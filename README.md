@@ -4,7 +4,8 @@ This project contains the Sketch source file of Antwerp's core branding componen
 
 ## Prerequisites
 
-To use this library you'll need to have [Sketch](https://www.sketchapp.com) installed, version 51 or higher.
+- MacOS users: to use this library you'll need to have [Sketch](https://www.sketchapp.com) installed, version 51 or higher.
+- Windows users: you can import Sketch files into software like Adobe Xd
 
 ## Getting started
 
